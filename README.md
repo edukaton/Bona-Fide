@@ -1,2 +1,2 @@
 # Bona-Fide
-repozytorium Bona FIde
+repozytorium Bona Fide API
